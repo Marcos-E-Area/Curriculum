@@ -1,0 +1,46 @@
+body{
+    background-image: url(./ASSETS/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28312.avif);
+   margin: 0;
+   color: beige;
+}
+.titulo{
+   margin: 0;
+   color: darkorchid;
+   font-size: 24px;
+}
+.DATOS{
+    margin: 0;
+    color: darkorchid;
+    font-size: 16px;
+    font-style: italic;
+}
+.trayectoria {
+    margin: 0;
+    color: darkorchid;
+    font-size: 16px;
+    font-style: italic;
+}
+.h2{
+    margin: 0;
+    color: white;
+}
+
+.tiselec{
+    margin: 0;
+    color: darkorchid;
+    font-size: 16px;
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
